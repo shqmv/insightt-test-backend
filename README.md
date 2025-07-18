@@ -1,7 +1,7 @@
 # 🧠Insightt Test - Backend API
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-This is a backend project built with [Express](https://expressjs.com/), featuring unit and integration testing with [Mocha](https://mochajs.org/), end-to-end testing using [Cypress](https://www.cypress.io/), and user authentication via email and password using [Firebase Authentication](https://firebase.google.com/products/auth).
+This is a **backend** project built with [Express](https://expressjs.com/), featuring unit and integration testing with [Mocha](https://mochajs.org/), end-to-end testing using [Cypress](https://www.cypress.io/), and user authentication via email and password using [Firebase Authentication](https://firebase.google.com/products/auth).
 
 ## 🚀 Requirements
 - [Node.js](https://nodejs.org/) >= 22.17.x
