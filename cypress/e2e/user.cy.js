@@ -5,7 +5,7 @@ describe('User Routes', () => {
     cy.request({
       method: 'POST',
       url: "http://localhost:4000/api/users/login",
-      body: { email: "shaquille.montero.vergel123@gmail.com", password: '130277633sS.' },
+      body: { email: "shaquille.montero.vergel123@gmail.com", password: '26598677' },
       failOnStatusCode: false
     }).then((response) => {
       expect(response.status).to.eq(200);
